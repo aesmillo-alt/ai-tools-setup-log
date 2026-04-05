@@ -8,7 +8,6 @@ This repository documents the set up of an AI-assisted development environment u
 Tools Installed
 
 - Cursor IDE
-
 - Claude Code extension (via Cursor Extensions)
 - Codex extension (via Cursor Extensions)
 - GitHub (repository creation and version control)
@@ -29,43 +28,30 @@ Setup Steps Completed
 Issues Encountered and Solutions
 1. Initial confusion navigating Cursor interface
 
-Issue: 
+   Issue: The layout and features of Cursor were unfamiliar at first.
 
-The layout and features of Cursor were unfamiliar at first.
-
-Solution: 
-
-Searched for quick tutorials and explored the interface manually to understand where extensions and files are managed.
+   Solution: Searched for quick tutorials and explored the interface manually to understand where extensions and files are managed.
 
 2. Installing extensions
 
-Issue: 
+   Issue: Needed to locate the correct extensions within Cursor.
 
-Needed to locate the correct extensions within Cursor.
-
-Solution:
-
-Used the Extensions search function and verified installation by checking the enabled extensions list.
+   Solution: Used the Extensions search function and verified installation by checking the enabled extensions list.
 
 3. GitHub repository setup
 
-Issue:
+   Issue: Ensuring the repository was correctly linked and updated from Cursor.
 
-Ensuring the repository was correctly linked and updated from Cursor.
-
-Solution:
-
-Followed standard Git workflow:
-
-- Initialized repository
-- Committed changes
-- Used push to upload to GitHub
+   Solution: Followed standard Git workflow:
+   - Initialized repository
+   - Committed changes
+   - Used push to upload to GitHub
   
 Key Learnings
 
-1. AI-assisted tools like Cursor can streamline development workflows when combined with proper extensions.
-2. Independent problem-solving (via documentation and tutorials) is essential when working with unfamiliar tools.
-3. Clear documentation helps track progress and communicate technical processes effectively.
+- AI-assisted tools like Cursor can streamline development workflows when combined with proper extensions.
+- Independent problem-solving (via documentation and tutorials) is essential when working with unfamiliar tools.
+- Clear documentation helps track progress and communicate technical processes effectively.
    
 Next Steps
 1. Explore more advanced features of Cursor and AI-assisted coding workflows.
