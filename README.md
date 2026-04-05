@@ -1,5 +1,5 @@
 # ai-tools-setup-log
-AI Toola Setup Log
+AI Tools Setup Log
 Overview
 This repository documents the set up of an AI-assisted development environment using Cursor IDE, along with the Claude Code and Codex extensions. It includes the installation process, steps completed, issues encountered, and how they were resolved.
 Tools Installed
