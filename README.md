@@ -1,18 +1,18 @@
-# ai-tools-setup-log
-AI Tools Setup Log
+# AI Tools Setup Log
+
 
 Overview
 
-This repository documents the set up of an AI-assisted development environment using Cursor IDE, along with the Claude Code and Codex extensions. It includes the installation process, steps completed, issues encountered, and how they were resolved.
+This repository documents the setup of an AI-assisted development environment using Cursor IDE, along with the Claude Code and Codex extensions. It includes the installation process, steps completed, issues encountered, and how they were resolved.
 
-Tools Installed
+## Tools Installed
 
 - Cursor IDE
 - Claude Code extension (via Cursor Extensions)
 - Codex extension (via Cursor Extensions)
 - GitHub (repository creation and version control)
 
-Setup Steps Completed
+## Setup Steps Completed
 
 1. Installed Cursor IDE from the official website.
 2. Opened Cursor and accessed the Extensions panel.
@@ -25,7 +25,7 @@ Setup Steps Completed
 7. Added documentation for the setup process.
 8. Committed changes and pushed the repository to GitHub.
 
-Issues Encountered and Solutions
+## Issues Encountered and Solutions
 1. Initial confusion navigating Cursor interface
 
    Issue: The layout and features of Cursor were unfamiliar at first.
@@ -47,13 +47,13 @@ Issues Encountered and Solutions
    - Committed changes
    - Used push to upload to GitHub
   
-Key Learnings
+## Key Learnings
 
 - AI-assisted tools like Cursor can streamline development workflows when combined with proper extensions.
 - Independent problem-solving (via documentation and tutorials) is essential when working with unfamiliar tools.
 - Clear documentation helps track progress and communicate technical processes effectively.
    
-Next Steps
+## Next Steps
 1. Explore more advanced features of Cursor and AI-assisted coding workflows.
 2. Apply these tools to real-world projects beyond setup and documentation.
 
